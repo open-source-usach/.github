@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/company/usachopensource" target="_blank" rel="noopener noreferrer"><img width="150" src="logo_transparent.png" alt="USACH Open Source Logo"></a></p>
+<p align="center"><a href="https://www.linkedin.com/company/usachopensource" target="_blank" rel="noopener noreferrer"><img width="150" src="https://i.imgur.com/SirTMcU.png" alt="USACH Open Source Logo"></a></p>
 
 # USACH Open Source
 
@@ -16,4 +16,4 @@ We encourage the use of [Git Conventional Commits](https://gist.github.com/qoomo
 if you have any ideas for projects or you want to collaborate, say hi to `René#0472` on Discord
 
 ## Credits
-Gracias nico por el logo, no nos demandes pls
+Thanks `nikko#0558` for the logo!
