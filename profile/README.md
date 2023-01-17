@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/company/usachopensource" target="_blank" rel="noopener noreferrer"><img width="150" src="https://i.imgur.com/SirTMcU.png" alt="USACH Open Source Logo"></a></p>
+<p align="center"><a href="https://www.linkedin.com/company/usachopensource" target="_blank" rel="noopener noreferrer"><img width="150" src="https://i.imgur.com/l7q68Hs.png" alt="USACH Open Source Logo"></a></p>
 
 # Open Source USACH
 
