@@ -6,8 +6,8 @@
 
 Recomendamos y promovemos el uso del inglés para toda la documentación, pero somos conscientes de que puede ser bastante difícil adaptarse y aprender una lengua que no es la nativa (Todos hemos pasado por lo mismo), por lo que puedes cambiar el idioma de este documento aquí abajo.
 
-<a href="README.md"><img src = "https://img.shields.io/badge/lang-en-blue"></a>
-<a href = "README.es.md"><img src="https://img.shields.io/badge/lang-es-yellow"></a>
+<a href="https://github.com/open-source-usach/.github/blob/main/profile/README.md"><img src = "https://img.shields.io/badge/lang-en-blue"></a>
+<a href = "https://github.com/open-source-usach/.github/blob/main/profile/README.es.md"><img src="https://img.shields.io/badge/lang-es-yellow"></a>
 
 ## ¿Qué es Open Source USACH?
 Open Source USACH (OSUsach) es una comunidad de estudiantes de la Universidad de Santiago de Chile y amigos colaborando en proyectos open-source! Incluso si no eres parte de la universidad, eres más que bienvenido a participar y colaborar en nuestros proyectos
